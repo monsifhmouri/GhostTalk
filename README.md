@@ -1,3 +1,7 @@
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat-square&logo=telegram)](http://t.me/monstr_m1nd)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=flat-square&logo=instagram)](https://www.instagram.com/httpx.mrmonsif/)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat-square&logo=facebook)](http://facebook.com/https.monsifhmouri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/monsifhmouri/)
 # GhostTalk
 
 GhostTalk is a fully offline, peer-to-peer secure communication project designed and developed by **Monsif Hmouri**.  
@@ -72,6 +76,10 @@ The networking layer uses low-level Bluetooth sockets and Wi-Fi P2P APIs, with c
 
 **Monsif Hmouri**  
 Cyber Security Researcher & Bug Bounty Hunter
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat-square&logo=telegram)](http://t.me/monstr_m1nd)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=flat-square&logo=instagram)](https://www.instagram.com/httpx.mrmonsif/)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat-square&logo=facebook)](http://facebook.com/https.monsifhmouri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/monsifhmouri/)
 
 GhostTalk is an independent research project created to explore offline communication, encryption logic, and decentralized networking on mobile devices.
 
