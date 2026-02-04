@@ -1,6 +1,6 @@
 # GhostTalk
 
-GhostTalk is a fully offline, peer-to-peer secure communication project designed and developed by Monsif Hmouri.  
+GhostTalk is a fully offline, peer-to-peer secure communication project designed and developed by **Monsif Hmouri**.  
 The project focuses on direct device-to-device messaging without servers, cloud services, or internet routing, targeting environments where privacy, isolation, and control are mandatory.
 
 GhostTalk is not a clone of existing messengers. It is an experimental architecture built from scratch to explore offline P2P communication, local encryption, and future mesh-based expansion.
@@ -35,10 +35,10 @@ Ghost Center is an internal security module designed to work independently from 
 
 It allows users to manually encrypt and decrypt text, copy secure output, and interact with low-level tools intended for secure environments.
 
-**Interface preview:**
-
-![Ghost Center Secure Vault](assests/ghost_center_vault.jpg)
-![Encryption Interface](assests/encrypt.jpg)
+<p align="center">
+  <img src="assests/ghost_center_vault.jpg" width="300">
+  <img src="assests/encrypt.jpg" width="300">
+</p>
 
 ---
 
@@ -49,10 +49,10 @@ GhostTalk scans nearby devices using Bluetooth and allows direct encrypted conne
 Each connected device acts as a local node.  
 Future versions are designed to relay messages across multiple nodes.
 
-**Device discovery interface:**
-
-![Bluetooth Scan](assests/bluetooth_scan.jpg)
-![Node Scan](assests/scann.jpg)
+<p align="center">
+  <img src="assests/bluetooth_scan.jpg" width="300">
+  <img src="assests/scann.jpg" width="300">
+</p>
 
 ---
 
@@ -62,9 +62,9 @@ GhostTalk is written entirely in Kotlin and developed as a native Android applic
 
 The networking layer uses low-level Bluetooth sockets and Wi-Fi P2P APIs, with concurrency handled through Kotlin threads and coroutines.
 
-**Development environment snapshot:**
-
-![Kotlin Core Logic](assests/kotlin_code.png)
+<p align="center">
+  <img src="assests/kotlin_code.png" width="380">
+</p>
 
 ---
 
@@ -77,9 +77,9 @@ GhostTalk is an independent research project created to explore offline communic
 
 The project reflects hands-on experimentation rather than theoretical design.
 
-**Developer profile inside the app:**
-
-![Developer Profile](assests/dev_profile.jpg)
+<p align="center">
+  <img src="assests/dev_profile.jpg" width="260">
+</p>
 
 ---
 
